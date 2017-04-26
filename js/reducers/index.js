@@ -1,6 +1,11 @@
+import * as actions from '../actions/index';
+import update from 'immutability-helper';
+
 const initialState = {
   username: '',
-  companies: [],
+  allCompanies: [],
+  userCompanies: [],
+  error: null,
 }
 
 export default (state=initialState, action) => {
