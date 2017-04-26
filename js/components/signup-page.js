@@ -2,7 +2,7 @@ import React from 'react';
 // import * as actions from '../actions';
 import {connect} from 'react-redux';
 import { browserHistory } from 'react-router';
-// import cookie from 'react-cookie';
+import * as Cookies from 'js-cookie';
 // import basic from 'basic-authorization-header';
 
 export class Signup extends React.Component {
@@ -19,11 +19,11 @@ export class Signup extends React.Component {
       username: this.username.value,
       password: this.password.value
     }
-    // this.props.dispatch(actions.addUser(formData));
-    // this.props.dispatch(actions.setUsername(this.username.value));
+    this.props.dispatch(actions.addUser(formData));
+    this.props.dispatch(actions.setUsername(this.username.value));
     // const headers = {'Authorization': basic(this.username.value, this.password.value)};
-    // cookie.save('headers', headers);
-    // cookie.save('token', this.username.value);
+    //Cookies.save('headers', headers);
+    //Cookies.save('token', this.username.value);
     browserHistory.push('/');
   }
 

@@ -1,2 +1,42 @@
-These are the words in the test file. They are fantastically horrible. It's
-confusing when positive adverbs precede very negative adjectives.
+Navdy’s aftermarket HUD proves a big in-car upgrade
+Posted 5 minutes ago by Darrell Etherington (@etherington)
+
+In-car navigation and infotainment options now abound, and more vehicles are shipping with support for native vehicle smartphone software from Apple and Google. But these all still prove distracting, and take your eyes away from the roadway, if only for a few brief seconds. Navdy’s dash-mounted aftermarket head-up display (HUD) is a solution to that problem, and after a few months of continuous, in-depth use, the accessory’s appeal becomes even more apparent.
+
+Design
+
+It’s a bit of an expensive add-on, though Navdy recently dropped the price of its hardware to $499, which is far more reasonable than its introductory price of just under $800. The hardware feels premium, too, in case you were concerned about the build quality, with a substantial weight in the hand and excellent finishes, plus optical-quality glass for the actual display windows itself that provides perfect transparency when viewing through to your windshield and the road beyond.
+
+What I like most about the Navdy hardware is that the mount is very easy to install, but even easier to use once it’s set up and you want to remove/re-attach the display and main body of the device itself. Very few people likely want to keep it visible on the dash at all times, since it’s likely to attract unwanted acquisitive attention. The magnetic base itself is fairly unassuming, however, and the display component snaps in with a satisfying click to let you know it’s properly attached.
+
+The magnet mount also supplies power, which is routed through the base from a cable plugged into and OBD-II dongle you hook up wherever that port is located on your car (most likely under the steering column). This provides both the necessary juice to run the display, as well as data from your vehicle including speed, which is displayed on the HUD while it’s in use.
+
+The bulk of the information shown on your Navdy comes from your smartphone, however, which you pair with the unit using Bluetooth. Once paired, Navdy easily connected to my iPhone every time I got in the car and snapped it into its base. Likewise, the manual steering-wheel mounted control dial, which also connects to the Navdy using Bluetooth, installs in seconds, and offers a satisfying tactile control option that’s much more intelligently designed than most native steering wheel controls created by automakers themselves.
+
+Most importantly, the display is clear, crisp and bright, with multi-color maps and menus that make everything easy to distinguish in all lighting conditions, even though it’s being projected on a transparent glass surface. It’s hard to describe just how good the Navdy looks, and images don’t accurately convey it. Even passengers can’t see how well it renders graphics, since the angle is optimized for drivers viewing head on. Trust me – display quality isn’t an area where Navdy is lacking.
+
+Software
+
+The Navdy software is designed for simplicity of use while you’re doing something that requires your full attention, and in this capacity it mostly succeeds. There’s a lot going on in Navdy’s software, but all of its features are hidden relatively close to the surface in terms of menu depth, meaning you can pretty quickly use the on-device interface to call up directions to your stored locations, including your home address.
+
+
+
+Incoming calls and notifications can be tuned to show you more or less (less by default), and these appear inline next to your maps or other on-screen car info while driving. They can also be set to provide you with more info – again, tweaked to show you less unless you manually change the default settings – and they give you clear indicators about when they’ll disappear with a little bar that gradually gets smaller.
+
+This interface element also appears when you’re nearing the next leg of your trip while using turn-by-turn directions. It’s a very clever visual way to show you how close you are to your next turn, merge or routing event, which is more easily grasped than the ticking away of a number representing feet or miles. I found during my use that it made me much more comfortable and less stressed about anticipating the next step in a trip, especially when I was driving in unfamiliar settings.
+
+Navdy’s most important software feature might be that it’s mostly extraneous, however; You can very easily use the display without ever touching the steering wheel control while on the road – using the Navdy app, you can queue up destinations and routes and have them sent to your display as soon as you get in your car, power up and connect to the Navdy hardware.
+
+Upgrades
+
+One of Navdy’s biggest virtues is its ability to receive over-the-air updates via the companion app, and the company is pretty committed to taking user feedback and turning that into product improvements. Already, a big version 1.1 update has added a number of features, including destination search via voice update, new vertical menus that are easier to navigate with less distraction, nearby place suggestions based on location, and even improved battery life and connectivity for the Navdy Dial steering wheel controller (I’ve encountered no problems with either aspect, either before or after the update, for what it’s worth).
+
+
+
+Its ability to upgrade is an advantage over even built-in HUDs on some high-end cars. While it’s true that more automakers are increasingly warming to the idea of providing OTA updates to vehicles throughout the lifetime of the car, Navdy’s more likely to provide these in a timely manner, and in response to conversations with users, than are most first-party solutions.
+
+Also, because Navdy sources its navigation routing from Google, you can expect regular improvements and consistent service from the product, which is not something that can be said for onboard navigation options anymore.
+
+Bottom Line
+
+Navdy has proven reliable and worthwhile over months of testing, and it’s a big step up even compared to using CarPlay in my vehicle. It definitely feels less distracting, and more user-friendly for doing things like skipping tracks or taking hands-free calls while on the road. The product isn’t perfect (its built-in routing tends to prefer more circuitous routes with a lot more side streets than I generally prefer, for instance), but it’s a great alternative to buying a new car for people who want what a HUD can offer in their existing ride.
