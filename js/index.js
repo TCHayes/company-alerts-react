@@ -15,10 +15,10 @@ import * as Cookies from 'js-cookie';
 const store = createStore(reducer, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(), applyMiddleware(thunk));
 
 function checkAuth() {
-  const accessToken = Cookies.get('accessToken'); //What's the accessToken going to be?
-  if (!accessToken){
-    browserHistory.replace('/welcome');
-  }
+  // const accessToken = Cookies.get('accessToken'); //What's the accessToken going to be?
+  // if (!accessToken){
+  //   browserHistory.replace('/welcome');
+  // }
 }
 
 const routes = (

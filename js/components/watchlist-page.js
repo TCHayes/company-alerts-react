@@ -3,6 +3,7 @@ import * as actions from '../actions';
 import {connect} from 'react-redux';
 import { browserHistory } from 'react-router';
 import * as Cookies from 'js-cookie';
+import CompanyCard from './company-card';
 
 function mapStateToProps(state, props) {
     return {
@@ -43,10 +44,15 @@ export class WatchlistPage extends React.Component {
   }
 
   render() {
+    const companies = this.props.allCompanies.map((company, index) => <CompanyCard key={index}
+                                                                name={company.name}
+                                                              toggled={company.toggled}
+                                                              index={index}/>)
     return (
       <div>
         <h4>Please select the companies you'd like to receive alerts for</h4>
           {/* Should there be a drop down menu here or some other way to present companies? */}
+          {companies}
         <button className='btn submit-cards' onClick={this.submitCards}>Submit</button>
         <button className='logout' onClick={this.logout}>Logout</button>
       </div>
